@@ -8,10 +8,6 @@ Quickly add one or multiple containers to CloudVision. The script will allow you
 Please enter the IP Address or FQDN of CloudVision: 172.25.200.100
 Username: admin
 Password: 
-Error connecting to https://172.25.200.100
-Please enter the IP Address or FQDN of CloudVision: 172.25.200.100
-Username: admin
-Password: 
 Conntected to CloudVision!
 Please select which container to add the containers to.
 [1]: Tenant
